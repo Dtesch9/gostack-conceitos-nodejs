@@ -65,7 +65,7 @@ app.put("/repositories/:id", (req, res) => {
   repositories[repoIndex] = {
     ...repository,
     ...req.body,
-    likes: 0,
+    likes: repository.likes,
   };
 
   return res.json(repositories[repoIndex]);
