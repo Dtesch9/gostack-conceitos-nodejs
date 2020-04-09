@@ -36,5 +36,5 @@ A very simple Express application in which you can learn the main concepts of No
 ## Run 🔥
 
 1. Run `$ yarn dev` to initialize the server;
-2. Go to your browser or Insomnia
+2. Go to your browser or <img width="13px" heigh="13px" src="https://pbs.twimg.com/profile_images/1091817101738864640/eQpWLr2c_400x400.jpg" alt="Insomnia-Icon"> Insomnia
 3. Acess localhost:3333/ and good hacking.
