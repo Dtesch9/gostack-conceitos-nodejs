@@ -1,12 +1,25 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Dtesch9/gostack-conceitos-nodejs">
+  <a href="https://nodejs.org/en/">
     <img width="200px" heigh="300px" src="https://miro.medium.com/max/1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">NodeJS concepts</h3>
 </p>
 <br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglas-tesch-00b7a518b/">
+    <img alt="Badge" src="https://img.shields.io/badge/Developer-Douglas%20Tesch-orange">
+  </a>
+
+  <a href="https://github.com/Dtesch9/fastfeet/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Dtesch9/gostack-conceitos-nodejs?style=social">
+  </a>
+  
+   <a href="https://github.com/Dtesch9/fastfeet/network/members">
+    <img alt="Stargazers" src="https://img.shields.io/github/forks/Dtesch9/gostack-conceitos-nodejs?style=social">
+  </a>
+</p>
 
 ## References
 
@@ -14,6 +27,7 @@
 - [About the Project](#about-the-project)
 - [Install](#install-)
 - [Run](#run-)
+- [Tests](#tests)
 
   
 ## About the Project
