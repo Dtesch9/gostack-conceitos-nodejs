@@ -30,9 +30,11 @@ A very simple Express application in which you can learn the main concepts of No
 1. Clone this repository;
 2. Go inside the folder `cd gostack-conceitos-nodejs`;
 3. Run `$ yarn` or `$ npm install` to install dependencies;
+4. Import example-insomnia.json that is at the root of this repository inside [![Download Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/)
+
 
 ## Run 🔥
 
 1. Run `$ yarn dev` to initialize the server;
-2. Go to your browser or [![Download Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/)
+2. Go to your browser or Insomnia
 3. Acess localhost:3333/ and good hacking.
