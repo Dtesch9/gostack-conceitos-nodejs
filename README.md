@@ -46,3 +46,5 @@ You might also realize how important tests are on your daily programming.
 Here you gonna see how tests work and how it prevents your application from crash.
 
 1. Run `$ yarn test` to run all tests.
+
+![Tests](https://github.com/Dtesch9/gostack-conceitos-nodejs/blob/master/assets/test.png)
