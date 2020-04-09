@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Dtesch9/gostack-conceitos-nodejs">
+  <a href="https://nodejs.org/en/">
     <img width="200px" heigh="300px" src="https://miro.medium.com/max/1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg" alt="Logo">
   </a>
 
