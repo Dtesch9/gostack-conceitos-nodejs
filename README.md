@@ -27,6 +27,7 @@
 - [About the Project](#about-the-project)
 - [Install](#install-)
 - [Run](#run-)
+- [Tests](#tests)
 
   
 ## About the Project
