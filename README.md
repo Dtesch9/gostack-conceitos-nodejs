@@ -18,7 +18,9 @@
   
 ## About the Project
 
-A very simple Express application in which you can learn the main concepts of Node.js and practice your skills 
+A very simple Express application in which you can learn the main concepts of Node.js and practice your skills.
+
+You might also realize how important tests are on your daily programming.
 
 ## Requirements ✋🏻
 
@@ -38,3 +40,9 @@ A very simple Express application in which you can learn the main concepts of No
 1. Run `$ yarn dev` to initialize the server;
 2. Go to your browser or <img width="13px" heigh="13px" src="https://pbs.twimg.com/profile_images/1091817101738864640/eQpWLr2c_400x400.jpg" alt="Insomnia-Icon"> Insomnia
 3. Acess localhost:3333/ and good hacking.
+
+## Tests
+
+Here you gonna see how tests work and how it prevents your application from crash.
+
+1. Run `$ yarn test` to run all tests.
