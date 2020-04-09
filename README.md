@@ -13,11 +13,11 @@
   </a>
 
   <a href="https://github.com/Dtesch9/fastfeet/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Dtesch9/fastfeet?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Dtesch9/gostack-conceitos-nodejs?style=social">
   </a>
   
    <a href="https://github.com/Dtesch9/fastfeet/network/members">
-    <img alt="Stargazers" src="https://img.shields.io/github/forks/Dtesch9/fastfeet?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/forks/Dtesch9/gostack-conceitos-nodejs?style=social">
   </a>
 </p>
 
